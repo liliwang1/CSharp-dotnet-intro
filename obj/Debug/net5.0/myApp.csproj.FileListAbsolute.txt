@@ -1,0 +1,15 @@
+/Users/liwang/myApp/bin/Debug/net5.0/myApp.deps.json
+/Users/liwang/myApp/bin/Debug/net5.0/myApp.runtimeconfig.json
+/Users/liwang/myApp/bin/Debug/net5.0/myApp.runtimeconfig.dev.json
+/Users/liwang/myApp/bin/Debug/net5.0/myApp.dll
+/Users/liwang/myApp/bin/Debug/net5.0/ref/myApp.dll
+/Users/liwang/myApp/bin/Debug/net5.0/myApp.pdb
+/Users/liwang/myApp/obj/Debug/net5.0/myApp.csprojAssemblyReference.cache
+/Users/liwang/myApp/obj/Debug/net5.0/myApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liwang/myApp/obj/Debug/net5.0/myApp.AssemblyInfoInputs.cache
+/Users/liwang/myApp/obj/Debug/net5.0/myApp.AssemblyInfo.cs
+/Users/liwang/myApp/obj/Debug/net5.0/myApp.csproj.CoreCompileInputs.cache
+/Users/liwang/myApp/obj/Debug/net5.0/myApp.dll
+/Users/liwang/myApp/obj/Debug/net5.0/ref/myApp.dll
+/Users/liwang/myApp/obj/Debug/net5.0/myApp.pdb
+/Users/liwang/myApp/obj/Debug/net5.0/myApp.genruntimeconfig.cache
